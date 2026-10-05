@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Eniola Olajugbagbe 👋 
+### Frontend Engineer & UI System Architect
 
-<!--
-**codemonk-silver/codemonk-silver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a performance-driven Frontend Engineer with 3+ years of experience engineering scalable UI systems, reusable component ecosystems, and high-conversion client runtimes. 
 
-Here are some ideas to get you started:
+- 🚀 Specializing in React, Next.js, TypeScript, and Tailwind CSS.
+- 📉 Optimized application state architectures to cut runtime interface re-renders by 34%.
+- 🎨 Focused on bridging the gap between pixel-perfect Figma designs and robust production code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Core Infrastructure
+- **Languages & Frameworks:** React.js, Next.js (App/Pages Router), TypeScript, JavaScript (ES6+), HTML5, CSS3
+- **State & Data Management:** Zustand, Redux Toolkit, Context API, React Query
+- **Styling & UI:** Tailwind CSS, Styled Components, CSS Modules, Framer Motion
+- **CMS & Automation:** WordPress Core Engine, Custom PHP Plugins, WooCommerce API
+
+### 📬 Connect With Me
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/eniola-olajugbagbe-058aa2281](https://linkedin.com)
+- 🌐 **Portfolio:** [enioladev-seven.vercel.app](https://vercel.app)
+- ✉️ **Email:** olajugbagbeeniola12@outlook.com
+- 
